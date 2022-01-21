@@ -1,0 +1,5 @@
+#jdbc prop
+#Fri Jan 21 10:31:04 CST 2022
+passWord=123456
+userName=postgres
+dbUrl=jdbc\:postgresql\://localhost\:5432/jdbc
